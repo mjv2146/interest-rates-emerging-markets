@@ -11,6 +11,8 @@
 
 ### [Tableau](https://public.tableau.com/app/profile/mitchell.vaughn4481/viz/InterestRatesinEmergingMarkets/Dashboard1?publish=yes)
 
+![blah](./fig/tableau_screenshot.png)
+
 ### Findings
 - Interest rates in emerging markets *increase* during a recession.
 ![blah](./fig/output_cycle_interestrate_emerging.png)
