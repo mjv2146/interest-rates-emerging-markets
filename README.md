@@ -4,6 +4,11 @@
 ### Data
 - Replication data from [Neumeyer and Perri (2006)](https://ideas.repec.org/a/eee/moneco/v52y2005i2p345-380.html)
 
+
+| Notebook | Description | 
+| --- | --- | 
+|[clean_visualize](./notebooks/clean_visualize.ipynb) | Clean data and develop visualizations in seaborn/matplotlib|
+
 ### Methods
 - Data wrangling - clean missing values, pivot tables, seasonal adjustment
 - Regression - regressing change in interest rates on output growth
